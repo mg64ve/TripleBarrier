@@ -14,4 +14,3 @@ The following are the results at the moment:
 
 
 ![Zorro results](/images/triplebarrier1.png)
-Format: ![Alt Text](url)
